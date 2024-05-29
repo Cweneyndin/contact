@@ -67,12 +67,7 @@ ul {
   transition: .3s;
 }
 
-.landing-page header .links li:last-child {
-  border-radius: 20px;
-  padding: 10px 20px;
-  color: #FFF;
-  background-color: #962E2A;
-}
+
 body{
 margin:0;
 overflow-x:hidden;
